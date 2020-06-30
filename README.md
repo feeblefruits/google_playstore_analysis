@@ -49,6 +49,7 @@ The repo includes the following files:
 - If we consider another category's app rating ratio - like category - we can see a clear preference for events, parenting, books and reference and art and design.
 - Most popular apps are labeled as family, game and tools (38%)
 - Nearly a third of all paid apps are rated 4.5 or above compared to a quarter of free apps which achieve such high acclaim
+- After testing logistic regression and SVC, we’ve managed to predict about 80% of the ratings using the column features in the dataset
 
 # Acknowledgements
 
